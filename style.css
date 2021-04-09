@@ -1,0 +1,14 @@
+h1{
+    color: darkblue;
+    border:solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content:center ;
+}
+a{
+    color: darkturquoise;
+    text-decoration: transparent;
+    display: flex;
+    justify-content:center ;
+}
+
